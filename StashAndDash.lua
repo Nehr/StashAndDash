@@ -117,9 +117,3 @@ local function OnAddOnLoaded(event, addonName)
 end
 
 EVENT_MANAGER:RegisterForEvent(ADDON_NAME, EVENT_ADD_ON_LOADED, OnAddOnLoaded)
-
--- Gold: DONE
--- Telvar Stones: TO DO
--- Alliance Points: TO DO
--- Writ Vouchers: TO DO
--- On/off per character: TO DO
