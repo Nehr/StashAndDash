@@ -2,7 +2,7 @@
 
 [![Made for ESO](https://img.shields.io/badge/Game-ESO-blue)](https://www.elderscrollsonline.com)  [![GitHub Tag](https://img.shields.io/github/v/tag/Nehr/StashAndDash)](https://github.com/Nehr/StashAndDash/tags)  [![LibAddonMenu](https://img.shields.io/badge/Dependency-LibAddonMenu--2.0-orange)](https://www.esoui.com/downloads/info7-LibAddonMenu.html)
 
-[![GitHub Release](https://img.shields.io/github/v/release/Nehr/StashAndDash?label=Latest%20Release)](https://github.com/Nehr/StashAndDash/releases)  [![ESOUI Downloads](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=ESOUI%20Downloads&query=downloads&url=https%3A%2F%2Fapi.esoui.com%2Faddons%2F4133.json)](https://www.esoui.com/downloads/infoXXXX-StashAndDash.html)
+[![GitHub Release](https://img.shields.io/github/v/release/Nehr/StashAndDash?label=Latest%20Release)](https://github.com/Nehr/StashAndDash/releases)  [![ESOUI Downloads](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=ESOUI%20Downloads&query=downloads&url=https%3A%2F%2Fapi.esoui.com%2Faddons%2F4133.json)](https://www.esoui.com/downloads/info4133-StashAndDash.html)
 
 
 **Author:** @Downehr
