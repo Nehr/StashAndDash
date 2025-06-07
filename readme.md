@@ -38,3 +38,4 @@ Install via Minion or manually as you would any other AddOn.
 	- Alliance Points
 	- Writ Vouchers
 	- On/off per character
+	- Remove "Bank scene not showing"-dialogue
