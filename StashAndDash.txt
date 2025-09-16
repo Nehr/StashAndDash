@@ -1,5 +1,5 @@
 ## Title: Stash 'n Dash
-## APIVersion: 101045 101046
+## APIVersion: 101045 101046 101047
 ## Version: 1.0
 ## Author: @Downehr
 ## Description: A humble banking assistant for Elder Scrolls Online
